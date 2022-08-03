@@ -5,3 +5,5 @@ Created with ReactJs + Node.Js + mySQL
 For responsive design used styled-components.
 
 For chart used npm recharts
+
+Back-end code: https://github.com/amalinauskas/stocksv1back
